@@ -18,4 +18,4 @@ ___Completando la función___
 7. IMPRIMIR RESULTADO
 8. FIN
 
-![Diagrama de flujo](http://i67.tinypic.com/6dtnro.jpg)
+![Diagrama de flujo](http://i63.tinypic.com/ir3omf.jpg)
