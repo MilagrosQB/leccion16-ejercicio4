@@ -17,3 +17,5 @@ ___Completando la función___
 6. MULTIPLICAR "TIEMPO" Y "COSTOMINUTO"
 7. IMPRIMIR RESULTADO
 8. FIN
+
+![Diagrama de flujo](http://i67.tinypic.com/6dtnro.jpg)
